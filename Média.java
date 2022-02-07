@@ -1,4 +1,3 @@
--jav
 // Esse código foi criado para calcular sua média final e ver se você passou de ano
 
 import java.util.Scanner;
