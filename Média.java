@@ -21,7 +21,6 @@ public class Main{
             System.out.print("escreva novamente ");
         }
         
-        //caso sua média seja 10, ele diz que passou de ano com uma ótima nota final
         if(n == 10){
             System.out.print("\nPassou com exito");
         }// caso sua média foi acima de 6 ou um 6 ele diz que você passou de ano
